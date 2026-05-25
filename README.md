@@ -17,6 +17,51 @@ Before running this script, you must install the correct versions of the require
 
 # Install 
 
+run this:
+```
+termux-setup-storage
+```
+update & upgrade 
+
+```
+apt update && apt upgrade
+```
+install git
+
+```
+apt install git -y
+```
+clone git repo 
+
+```
+git clone
+```
+navigate 
+
+```
+cd Linux_setup
+```
+run this 
+
+```
+chmod +x termux-linux-setup.sh
+```
+```
+./termux-linux-setup.sh
+```
+start desktop 
+
+```
+./start-linux.sh
+```
+stop desktop 
+
+```
+./stop-linux.sh
+```
+
+## One click install
+
 Once you have both applications installed on your phone, open the primary Termux app and paste the following command to automatically download and run the setup script:
 
 ```
