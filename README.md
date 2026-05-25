@@ -34,7 +34,7 @@ apt install git -y
 clone git repo 
 
 ```
-git clone
+git clone https://github.com/cloudaii/Linux_setup.git
 ```
 navigate 
 
