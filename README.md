@@ -36,11 +36,7 @@ clone git repo
 ```
 git clone https://github.com/cloudaii/Linux_setup.git
 ```
-navigate 
 
-```
-cd Linux_setup
-```
 run this 
 
 ```
